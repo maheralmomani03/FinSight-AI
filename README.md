@@ -2,7 +2,7 @@
 
 > **Bridging the Gap Between Accounting Logic and Data Science.**
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge.svg)](https://finsight-ai-maher.streamlit.app/) 
+[![Streamlit App](finsight-ai-gsubnqxl3gkhciy79y8fk4)
 
 ---
 
